@@ -18,4 +18,3 @@ A aplicação será composta por **cinco páginas principais**, todas com objeti
 | `pacotes.html` | Apresenta pacotes promocionais e personalizados para diferentes perfis.   |
 | `sobre.html`   | Informações sobre a agência, missão, visão e equipe.                      |
 | `contato.html` | Formulários de contato, orçamento e inscrição em newsletter.              |
-|--------------------------------------------------------------------------------------------|
